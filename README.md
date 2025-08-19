@@ -1,6 +1,6 @@
 # Stupid-inc-unreal-project
 
-**Stupid-inc-unreal-project** is a school project built using **Unreal engine 5.6.1**.
+**Stupid-inc-unreal-project** is a school project using **Unreal engine 5.6.1**.
 
 ## 🚧 Current Status: In Development
 
