@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/s4jala-files/github/Stupid-inc-unreal-project/project/Content/Maps/Player.umap",
+				"C:/s4jala-files/github/Stupid-inc-unreal-project/project/Content/Blueprints/GM_Gamemode.uasset",
+				"C:/s4jala-files/github/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset"
+			]
+		}
+	]
+}
