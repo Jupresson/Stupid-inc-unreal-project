@@ -3620,3 +3620,6 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.08.26-08.35.36:329][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/OptionsMenuWB_Auto7
 [2025.08.26-08.35.36:329][813]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/OptionsMenuWB_Auto74DD644804EB85638C3EC3C91DD5E54D4.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/Autosaves/Game/UI/OptionsMenuWB_Auto7.uasset'
 [2025.08.26-08.35.36:330][813]LogFileHelpers: Auto-saving content packages took 0.060
+[2025.08.26-08.35.46:188][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9718.848633
+[2025.08.26-08.35.47:187][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.26-08.35.47:187][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9719.530273, Update Interval: 332.328247
