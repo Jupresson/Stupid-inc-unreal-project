@@ -5,9 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/s4jala-files/github/Stupid-inc-unreal-project/project/Content/Maps/Player.umap",
 				"C:/s4jala-files/github/Stupid-inc-unreal-project/project/Content/Blueprints/GM_Gamemode.uasset",
 				"C:/s4jala-files/github/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset"
+=======
+				"C:/s4jala-files/Stupid-inc-unreal-project/project/Content/Maps/MainmenuMap.umap",
+				"C:/s4jala-files/Stupid-inc-unreal-project/project/Content/MainmenuMap.umap",
+				"C:/Unreal game/Stupid-inc-unreal-project/project/Content/UI/MainMenu.uasset",
+				"C:/Unreal game/Stupid-inc-unreal-project/project/Content/MainmenuMap.umap"
+>>>>>>> 4382d44970526d888034a5c25d31b9ae2d0ed644
 			]
 		}
 	]
