@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/s4jala-files/Stupid-inc-unreal-project/project/Content/Maps/MainmenuMap.umap",
+				"C:/s4jala-files/Stupid-inc-unreal-project/project/Content/MainmenuMap.umap",
 				"C:/Unreal game/Stupid-inc-unreal-project/project/Content/UI/MainMenu.uasset",
 				"C:/Unreal game/Stupid-inc-unreal-project/project/Content/MainmenuMap.umap"
 			]
