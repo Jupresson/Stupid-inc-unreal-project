@@ -6,7 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/UI/LevelSelectMenuWidget.uasset",
-				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/UI/MainMenu.uasset"
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/UI/MainMenu.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Maps/Test.umap",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Blueprints/Doors/BP_P_Door.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Blueprints/Doors/BP_P_DoorHalf.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Blueprints/Doors/BP_P2_Door.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Blueprints/Doors/BP_P2_DoorHalf.uasset"
 			]
 		}
 	]
