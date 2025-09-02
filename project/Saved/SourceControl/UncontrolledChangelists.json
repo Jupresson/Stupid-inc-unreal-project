@@ -5,12 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/Unreal5/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
-				"F:/Unreal5/Stupid-inc-unreal-project/project/Content/Maps/Player.umap",
-				"F:/Unreal5/Stupid-inc-unreal-project/project/Content/Blueprints/E_MovementState.uasset",
-				"C:/s4jala-files/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
-				"C:/s4jala-files/Stupid-inc-unreal-project/project/Content/Maps/Player.umap",
-				"C:/s4jala-files/Stupid-inc-unreal-project/project/Content/Blueprints/E_MovementState.uasset"
+				"C:/s4jala-files/2/Stupid-inc-unreal-project/project/Content/Maps/Player.umap",
+				"C:/s4jala-files/2/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/UI/LevelSelectMenuWidget.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/UI/MainMenu.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Maps/Test.umap",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Blueprints/Doors/BP_P_Door.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Blueprints/Doors/BP_P_DoorHalf.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Blueprints/Doors/BP_P2_Door.uasset",
+				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Blueprints/Doors/BP_P2_DoorHalf.uasset"
 			]
 		}
 	]
