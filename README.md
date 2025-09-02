@@ -8,6 +8,4 @@ This project is in the **In Development stage**, meaning it's actively being bui
 
 ## 🛠️ Tech Stack
 
-- **C++**
 - **Unreal engine 5.6.1**
-- **Visual studio with (Desktop development C++) & (Game development with C++)**
