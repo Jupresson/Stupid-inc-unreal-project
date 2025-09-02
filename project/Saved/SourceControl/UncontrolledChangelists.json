@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Unreal5/Stupid-inc-unreal-project/project/Content/UI/PlayerUi/WP_HealtBar.uasset",
+				"F:/Unreal5/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
 				"C:/s4jala-files/2/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
 				"C:/s4jala-files/2/Stupid-inc-unreal-project/project/Content/UI/PlayerUi/WP_HealtBar.uasset",
 				"C:/unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Ground_Assault_Trooper_A.uasset",
