@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/unreal/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
+				"C:/unreal/Stupid-inc-unreal-project/project/Content/Maps/NewMap.umap",
+				"C:/unreal/Stupid-inc-unreal-project/project/Content/Blueprints/Enemy2.uasset",
+				"C:/unreal/Stupid-inc-unreal-project/project/Content/__ExternalActors__/Maps/NewMap/B/T4/HVTDXOP8PW0ZDTF6H6EME1.uasset",
+				"C:/unreal/Stupid-inc-unreal-project/project/Content/__ExternalActors__/Maps/NewMap/9/HJ/TMKCCSMB2GCUPZ65D5QPQX.uasset",
+				"C:/unreal/Stupid-inc-unreal-project/project/Content/__ExternalActors__/Maps/NewMap/5/6M/XELVDWSXVZZNC7CO7VT3CR.uasset",
+				"C:/unreal/Stupid-inc-unreal-project/project/Content/Blueprints/Enemy2_skeletal.uasset",
+				"C:/unreal/Stupid-inc-unreal-project/project/Content/Blueprints/Enemy2_static.uasset",
 				"C:/s4jala-files/2/Stupid-inc-unreal-project/project/Content/Maps/Player.umap",
 				"C:/s4jala-files/2/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
 				"C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/UI/LevelSelectMenuWidget.uasset",
