@@ -3320,3 +3320,6 @@ Script Stack (0 frames) :
 [2025.09.05-07.03.01:494][201]LogEOSSDK: Warning: LogHttp: 000001FA80D6C000: libcurl info message cache 8 (Closing connection)
 [2025.09.05-07.03.01:494][201]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=90D30EB64EA282B8B195129F21135F3D
 [2025.09.05-07.03.01:494][201]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.09.05-07.05.57:188][728]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5848.668945
+[2025.09.05-07.05.58:188][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.05-07.05.58:188][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5849.335449, Update Interval: 336.257812
