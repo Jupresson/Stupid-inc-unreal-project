@@ -1754,3 +1754,20 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.05-05.29.27:670][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2025.09.05-05.29.27:760][798]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2025.09.05-06.11.10:614][925]LogPSOHitching: Encountered 200 PSO creation hitches so far (69 graphics, 131 compute). 0 of them were precached.
+[2025.09.05-06.14.50:953][439]LogPSOHitching: Encountered 250 PSO creation hitches so far (99 graphics, 151 compute). 0 of them were precached.
+[2025.09.05-06.14.53:703][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.05-06.14.53:733][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enemy1" FILE="../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Maps/Enemy1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.05-06.14.53:767][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.05-06.14.53:783][755]LogSavePackage: Moving output files for package: /Game/Maps/Enemy1
+[2025.09.05-06.14.53:783][755]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Enemy1DAD636A749D78EF718DC918874B4DC9C.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Maps/Enemy1.umap'
+[2025.09.05-06.14.53:790][755]LogFileHelpers: Saving map 'Enemy1' took 0.056
+[2025.09.05-06.14.53:801][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.044 ms (total: 467.926 ms)
+[2025.09.05-06.14.53:833][755]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.05-06.14.53:833][755]LogContentValidation: Enabled validators:
+[2025.09.05-06.14.53:833][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.05-06.14.53:833][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.05-06.14.53:833][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.05-06.14.53:833][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.05-06.14.53:833][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.05-06.14.53:833][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.05-06.14.53:834][755]AssetCheck: /Game/Maps/Enemy1 Validating asset
