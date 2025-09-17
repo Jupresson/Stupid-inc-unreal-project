@@ -1289,3 +1289,256 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.17-05.43.58:790][555]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.17-05.43.58:790][555]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.17-05.43.58:791][555]AssetCheck: /Game/Blueprints/Enemy1_Rework Validating asset
+[2025.09.17-06.01.39:491][908]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-06.01.39:492][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-06.01.39:545][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.17-06.01.39:889][943]LogSlate: Window 'Bullet' being destroyed
+[2025.09.17-06.01.39:918][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.17-06.01.39:918][943]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-06.01.39:918][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-06.01.39:964][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.17-06.01.41:891][169]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.17-06.01.41:906][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.17-06.01.41:909][169]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.17-06.01.41:909][169]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.17-06.01.41:909][169]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Enemy1
+[2025.09.17-06.01.41:912][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002783s)
+[2025.09.17-06.01.41:912][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Enemy1.Enemy1 to /Game/Maps/UEDPIE_0_Enemy1.Enemy1 (0.002827s)
+[2025.09.17-06.01.41:931][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.09.17-06.01.41:932][169]LogChaosDD: Creating Chaos Debug Draw Scene for world Enemy1
+[2025.09.17-06.01.41:933][169]LogPlayLevel: PIE: World Init took: (0.001447s)
+[2025.09.17-06.01.41:934][169]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.17-06.01.41:934][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.17-06.01.41:934][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.17-06.01.41:934][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.17-06.01.41:934][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.17-06.01.41:934][169]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.17-06.01.41:934][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.17-06.01.41:934][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.17-06.01.41:934][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.17-06.01.41:934][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.17-06.01.41:934][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.17-06.01.41:934][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.17-06.01.41:936][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.17-06.01.41:957][169]LogAudioMixer: Display: Using Audio Hardware Device Kaiuttimet (Realtek(R) Audio)
+[2025.09.17-06.01.41:957][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.17-06.01.41:957][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.17-06.01.41:957][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.17-06.01.41:958][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.17-06.01.41:958][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.17-06.01.41:959][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.17-06.01.41:959][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.17-06.01.41:959][169]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.17-06.01.41:959][169]LogAudio: Display: Audio Device (ID: 2) registered with world 'Enemy1'.
+[2025.09.17-06.01.41:959][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.17-06.01.42:006][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-06.01.42:006][169]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.09.17-06.01.42:008][169]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Enemy1.Enemy1 up for play (max tick rate 0) at 2025.09.17-09.01.42
+[2025.09.17-06.01.42:010][169]LogWorld: Bringing up level for play took: 0.003326
+[2025.09.17-06.01.42:012][169]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.09.17-06.01.42:025][169]PIE: Server logged in
+[2025.09.17-06.01.42:027][169]PIE: Play in editor total start time 0,131 seconds.
+[2025.09.17-06.01.42:059][170]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1594"
+[2025.09.17-06.01.42:060][170]LogCsvProfiler: Display: Metadata set : systemresolution.resy="860"
+[2025.09.17-06.01.42:078][170]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.17-06.02.38:017][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-06.02.38:017][871]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Enemy1
+[2025.09.17-06.02.38:017][871]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.09.17-06.02.38:018][871]LogSlate: Window 'project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.17-06.02.38:021][871]LogWorld: UWorld::CleanupWorld for Enemy1, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-06.02.38:021][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-06.02.38:022][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.17-06.02.38:024][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-06.02.38:043][871]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.17-06.02.38:043][871]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.09.17-06.02.38:045][871]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.09.17-06.02.38:050][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.09.17-06.02.38:162][872]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.09.17-06.08.03:931][258]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.17-06.08.04:013][259]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.17-06.24.05:695][714]LogDerivedDataCache: C:/Users/s4kujo02/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.17-06.24.09:623][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy1_Rework.Enemy1_Rework
+[2025.09.17-06.24.09:623][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.17-06.26.50:856][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-06.26.50:893][732]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy1_Rework] ([2] browsable assets)...
+[2025.09.17-06.26.50:920][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy1_Rework.Enemy1_Rework]
+[2025.09.17-06.26.50:920][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy1_Rework]
+[2025.09.17-06.26.50:920][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy1_Rework" FILE="../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Enemy1_Rework.uasset" SILENT=true
+[2025.09.17-06.26.50:935][732]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy1_Rework
+[2025.09.17-06.26.50:936][732]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Enemy1_Rework32A14A4C4D3FCDA08A122E839BF44BEB.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Enemy1_Rework.uasset'
+[2025.09.17-06.26.50:944][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.867 ms (total: 667.779 ms)
+[2025.09.17-06.26.50:991][732]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-06.26.50:991][732]LogContentValidation: Enabled validators:
+[2025.09.17-06.26.50:991][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-06.26.50:991][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-06.26.50:991][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-06.26.50:991][732]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-06.26.50:991][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-06.26.50:991][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-06.26.50:992][732]AssetCheck: /Game/Blueprints/Enemy1_Rework Validating asset
+[2025.09.17-06.26.52:340][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.17-06.27.29:746][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-06.27.29:792][737]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy1_Rework] ([2] browsable assets)...
+[2025.09.17-06.27.29:821][737]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy1_Rework.Enemy1_Rework]
+[2025.09.17-06.27.29:821][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy1_Rework]
+[2025.09.17-06.27.29:821][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy1_Rework" FILE="../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Enemy1_Rework.uasset" SILENT=true
+[2025.09.17-06.27.29:835][737]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy1_Rework
+[2025.09.17-06.27.29:835][737]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Enemy1_Rework2AAE8C64422583D3C116D196164B3315.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Enemy1_Rework.uasset'
+[2025.09.17-06.27.29:842][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.856 ms (total: 762.635 ms)
+[2025.09.17-06.27.29:895][737]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-06.27.29:895][737]LogContentValidation: Enabled validators:
+[2025.09.17-06.27.29:895][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-06.27.29:895][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-06.27.29:895][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-06.27.29:895][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-06.27.29:895][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-06.27.29:895][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-06.27.29:895][737]AssetCheck: /Game/Blueprints/Enemy1_Rework Validating asset
+[2025.09.17-06.27.30:356][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.17-06.27.35:183][291]LogSlate: Window 'Enemy1_Rework' being destroyed
+[2025.09.17-06.27.35:191][291]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-06.27.35:191][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-06.27.35:235][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.17-06.27.36:574][442]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.17-06.27.36:580][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.17-06.27.36:580][442]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Enemy1
+[2025.09.17-06.27.36:582][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002559s)
+[2025.09.17-06.27.36:582][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Enemy1.Enemy1 to /Game/Maps/UEDPIE_0_Enemy1.Enemy1 (0.002588s)
+[2025.09.17-06.27.36:600][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.17-06.27.36:601][442]LogChaosDD: Creating Chaos Debug Draw Scene for world Enemy1
+[2025.09.17-06.27.36:603][442]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2025.09.17-06.27.36:603][442]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.17-06.27.36:603][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.17-06.27.36:603][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.17-06.27.36:603][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.17-06.27.36:603][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.17-06.27.36:603][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.17-06.27.36:603][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.17-06.27.36:603][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.17-06.27.36:603][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.17-06.27.36:603][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.17-06.27.36:603][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.17-06.27.36:603][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.17-06.27.36:605][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.17-06.27.36:626][442]LogAudioMixer: Display: Using Audio Hardware Device Kaiuttimet (Realtek(R) Audio)
+[2025.09.17-06.27.36:626][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.17-06.27.36:626][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.17-06.27.36:626][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.17-06.27.36:627][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.17-06.27.36:627][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.17-06.27.36:629][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.17-06.27.36:629][442]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.17-06.27.36:629][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.17-06.27.36:629][442]LogAudio: Display: Audio Device (ID: 3) registered with world 'Enemy1'.
+[2025.09.17-06.27.36:629][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.17-06.27.36:678][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-06.27.36:679][442]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.09.17-06.27.36:679][442]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Enemy1.Enemy1 up for play (max tick rate 0) at 2025.09.17-09.27.36
+[2025.09.17-06.27.36:680][442]LogWorld: Bringing up level for play took: 0.000989
+[2025.09.17-06.27.36:682][442]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.17-06.27.36:687][442]PIE: Server logged in
+[2025.09.17-06.27.36:690][442]PIE: Play in editor total start time 0,111 seconds.
+[2025.09.17-06.27.36:735][443]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.17-06.27.46:358][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-06.27.46:358][590]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Enemy1
+[2025.09.17-06.27.46:358][590]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.09.17-06.27.46:358][590]LogSlate: Window 'project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.17-06.27.46:362][590]LogWorld: UWorld::CleanupWorld for Enemy1, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-06.27.46:362][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-06.27.46:363][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.17-06.27.46:365][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-06.27.46:384][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.17-06.27.46:384][590]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.09.17-06.27.46:385][590]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.09.17-06.27.46:390][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.17-06.27.46:483][591]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.17-06.28.07:921][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy1_Rework.Enemy1_Rework
+[2025.09.17-06.28.07:922][856]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.17-06.28.34:164][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bullet.Bullet
+[2025.09.17-06.28.34:165][363]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.17-06.29.39:586][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.17-06.30.06:176][138]LogEditorTransaction: Undo Delete current selection
+[2025.09.17-06.31.12:655][223]LogEditorTransaction: Undo Move Node
+[2025.09.17-06.31.12:892][225]LogEditorTransaction: Undo Create Pin Link
+[2025.09.17-06.31.13:113][227]LogEditorTransaction: Undo Create Pin Link
+[2025.09.17-06.31.13:366][239]LogEditorTransaction: Undo Break Pin Links
+[2025.09.17-06.31.13:757][271]LogEditorTransaction: Undo Move Node
+[2025.09.17-06.31.14:588][351]LogEditorTransaction: Undo Change Bool Pin Value
+[2025.09.17-06.31.15:002][381]LogEditorTransaction: Undo Move Node
+[2025.09.17-06.31.15:424][416]LogEditorTransaction: Undo Add Node
+[2025.09.17-06.31.17:989][679]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.17-06.31.18:033][679]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.17-06.31.18:441][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-06.31.18:503][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Bullet] ([2] browsable assets)...
+[2025.09.17-06.31.18:530][713]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Bullet.Bullet]
+[2025.09.17-06.31.18:530][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Bullet]
+[2025.09.17-06.31.18:530][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Bullet.uasset" SILENT=true
+[2025.09.17-06.31.18:543][713]LogSavePackage: Moving output files for package: /Game/Blueprints/Bullet
+[2025.09.17-06.31.18:543][713]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Bullet0ED201FA42A618CE1293F7B1DA7C9775.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Bullet.uasset'
+[2025.09.17-06.31.18:549][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.167 ms (total: 871.803 ms)
+[2025.09.17-06.31.18:601][713]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-06.31.18:601][713]LogContentValidation: Enabled validators:
+[2025.09.17-06.31.18:601][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-06.31.18:601][713]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-06.31.18:601][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-06.31.18:601][713]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-06.31.18:601][713]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-06.31.18:601][713]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-06.31.18:601][713]AssetCheck: /Game/Blueprints/Bullet Validating asset
+[2025.09.17-06.36.10:015][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.17-06.36.10:016][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Enemy1' took 0.023
+[2025.09.17-06.36.10:017][816]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Bullet] ([2] browsable assets)...
+[2025.09.17-06.36.10:045][816]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Bullet.Bullet]
+[2025.09.17-06.36.10:045][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Bullet]
+[2025.09.17-06.36.10:045][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Autosaves/Game/Blueprints/Bullet_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.09.17-06.36.10:060][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Bullet_Auto2
+[2025.09.17-06.36.10:060][816]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Bullet_Auto28015E13240E12F63A44DB8859EB5858C.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Autosaves/Game/Blueprints/Bullet_Auto2.uasset'
+[2025.09.17-06.36.10:060][816]LogFileHelpers: Auto-saving content packages took 0.044
+[2025.09.17-06.39.34:334][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.17-06.39.35:903][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-06.39.35:948][ 53]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Bullet] ([2] browsable assets)...
+[2025.09.17-06.39.35:980][ 53]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Bullet.Bullet]
+[2025.09.17-06.39.35:980][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Bullet]
+[2025.09.17-06.39.35:980][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Bullet.uasset" SILENT=true
+[2025.09.17-06.39.35:994][ 53]LogSavePackage: Moving output files for package: /Game/Blueprints/Bullet
+[2025.09.17-06.39.35:994][ 53]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Bullet0BA3739849452058E9BD6A8CF5D108F1.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Bullet.uasset'
+[2025.09.17-06.39.36:000][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.894 ms (total: 968.697 ms)
+[2025.09.17-06.39.36:049][ 53]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-06.39.36:049][ 53]LogContentValidation: Enabled validators:
+[2025.09.17-06.39.36:049][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-06.39.36:049][ 53]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-06.39.36:049][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-06.39.36:049][ 53]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-06.39.36:049][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-06.39.36:049][ 53]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-06.39.36:049][ 53]AssetCheck: /Game/Blueprints/Bullet Validating asset
+[2025.09.17-06.44.16:381][205]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::AddComponent' [Elementtiä ei löydy.]
+[2025.09.17-06.46.10:164][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.17-06.46.10:166][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Enemy1' took 0.024
+[2025.09.17-06.46.10:166][377]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy1_Rework] ([2] browsable assets)...
+[2025.09.17-06.46.10:200][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy1_Rework.Enemy1_Rework]
+[2025.09.17-06.46.10:200][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy1_Rework]
+[2025.09.17-06.46.10:216][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemy1_Rework_Auto3
+[2025.09.17-06.46.10:216][377]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Enemy1_Rework_Auto37C6D1173461B2D5FA65DB9885E99A55B.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Autosaves/Game/Blueprints/Enemy1_Rework_Auto3.uasset'
+[2025.09.17-06.46.10:217][377]LogFileHelpers: Auto-saving content packages took 0.050
+[2025.09.17-06.57.29:729][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-06.57.29:759][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy1_Rework] ([2] browsable assets)...
+[2025.09.17-06.57.29:787][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy1_Rework.Enemy1_Rework]
+[2025.09.17-06.57.29:787][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy1_Rework]
+[2025.09.17-06.57.29:787][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy1_Rework" FILE="../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Enemy1_Rework.uasset" SILENT=true
+[2025.09.17-06.57.29:801][ 97]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy1_Rework
+[2025.09.17-06.57.29:802][ 97]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Enemy1_Rework83F08CC740806FD07305E6BB60D439A8.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Enemy1_Rework.uasset'
+[2025.09.17-06.57.29:809][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.910 ms (total: 1.04 sec)
+[2025.09.17-06.57.29:841][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-06.57.29:841][ 97]LogContentValidation: Enabled validators:
+[2025.09.17-06.57.29:841][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-06.57.29:841][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-06.57.29:841][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-06.57.29:841][ 97]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-06.57.29:841][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-06.57.29:841][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-06.57.29:841][ 97]AssetCheck: /Game/Blueprints/Enemy1_Rework Validating asset
