@@ -1542,3 +1542,29 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.17-06.57.29:841][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.17-06.57.29:841][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.17-06.57.29:841][ 97]AssetCheck: /Game/Blueprints/Enemy1_Rework Validating asset
+[2025.09.17-07.24.05:695][902]LogDerivedDataCache: C:/Users/s4kujo02/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.17-08.03.31:573][579]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::AddComponent' [Määritettyä osaa ei löydy.]
+[2025.09.17-08.04.31:262][160]LogEditorTransaction: Undo Move Node
+[2025.09.17-08.04.31:541][162]LogEditorTransaction: Undo Move Node
+[2025.09.17-08.04.32:092][194]LogEditorTransaction: Undo Delete current selection
+[2025.09.17-08.07.53:548][825]LogEditorTransaction: Undo Delete current selection
+[2025.09.17-08.07.53:863][827]LogEditorTransaction: Undo Move Node
+[2025.09.17-08.07.54:203][834]LogEditorTransaction: Undo Paste clipboard contents
+[2025.09.17-08.07.54:537][852]LogEditorTransaction: Undo Break Pin Links
+[2025.09.17-08.07.56:733][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-08.07.56:760][ 58]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy1_Rework] ([2] browsable assets)...
+[2025.09.17-08.07.56:789][ 58]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy1_Rework.Enemy1_Rework]
+[2025.09.17-08.07.56:789][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy1_Rework]
+[2025.09.17-08.07.56:789][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy1_Rework" FILE="../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Enemy1_Rework.uasset" SILENT=true
+[2025.09.17-08.07.56:803][ 58]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy1_Rework
+[2025.09.17-08.07.56:803][ 58]LogSavePackage: Moving '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Saved/Enemy1_ReworkF66346C049BFC185E3EF6A9F15ACC861.tmp' to '../../../../../../unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Enemy1_Rework.uasset'
+[2025.09.17-08.07.56:811][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.161 ms (total: 1.12 sec)
+[2025.09.17-08.07.56:844][ 58]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-08.07.56:844][ 58]LogContentValidation: Enabled validators:
+[2025.09.17-08.07.56:844][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-08.07.56:844][ 58]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-08.07.56:844][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-08.07.56:844][ 58]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-08.07.56:844][ 58]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-08.07.56:844][ 58]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-08.07.56:844][ 58]AssetCheck: /Game/Blueprints/Enemy1_Rework Validating asset
