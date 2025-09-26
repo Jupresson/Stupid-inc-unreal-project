@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/s4jala-files/new/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
+				"C:/s4jala-files/new/Stupid-inc-unreal-project/project/Content/__ExternalActors__/Maps/NewMapDecorated/A/RC/9KJJEEL4ZF4113OG850AAO.uasset",
+				"C:/s4jala-files/new/Stupid-inc-unreal-project/project/Content/Maps/NewMapDecorated.umap",
 				"C:/unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Ground_Assault_Trooper_A.uasset",
 				"C:/unreal(backup)/Stupid-inc-ROTF/project/Content/Blueprints/Bullet.uasset",
 				"C:/unreal(backup)/Stupid-inc-ROTF/project/Content/Maps/Enemy1.umap",
