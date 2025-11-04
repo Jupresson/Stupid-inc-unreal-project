@@ -1,0 +1,37 @@
+#################################
+# Unreal Engine Generated Files #
+#################################
+
+# Unreal build folders (inside project)
+project/MyUnrealProject/[Bb]uild/
+project/MyUnrealProject/[Bb]uilds/
+project/MyUnrealProject/Binaries/
+project/MyUnrealProject/DerivedDataCache/
+project/MyUnrealProject/Intermediate/
+project/MyUnrealProject/Saved/
+
+#################################
+# Visual Studio Generated Files #
+#################################
+
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+
+# Optional: ignore the solution file if it's auto-generated
+*.sln
+
+#################################
+# OS Junk #
+#################################
+
+.DS_Store
+Thumbs.db
+desktop.ini
