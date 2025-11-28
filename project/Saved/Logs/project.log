@@ -1157,3 +1157,492 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.28-06.01.39:783][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 8.409214
 [2025.11.28-06.01.39:784][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1416957435
 [2025.11.28-06.01.39:784][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8.409214, Update Interval: 336.431763
+[2025.11.28-06.02.43:522][199]LogInterchangeEngine: [Pending] Importing
+[2025.11.28-06.02.43:526][199]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.11.28-06.02.43:530][199]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.28-06.02.43:530][199]LogInterchangeEngine: [Success] Import Done
+[2025.11.28-06.02.43:560][199]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.28-06.02.43:621][200]LogInterchangeEngine: [Pending] Importing
+[2025.11.28-06.02.43:622][200]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.11.28-06.02.43:624][200]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.28-06.02.43:624][200]LogInterchangeEngine: [Success] Import Done
+[2025.11.28-06.02.43:638][200]LogInterchangeEngine: [Pending] Importing
+[2025.11.28-06.02.43:639][200]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.11.28-06.02.43:641][200]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.28-06.02.43:641][200]LogInterchangeEngine: [Success] Import Done
+[2025.11.28-06.02.43:656][200]LogInterchangeEngine: [Pending] Importing
+[2025.11.28-06.02.43:657][200]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.11.28-06.02.43:658][200]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.28-06.02.43:658][200]LogInterchangeEngine: [Success] Import Done
+[2025.11.28-06.02.43:660][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact8_sfx.mp3]
+[2025.11.28-06.02.43:660][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact8_sfx.mp3)
+[2025.11.28-06.02.43:668][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:674][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact7_sfx.mp3]
+[2025.11.28-06.02.43:674][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact7_sfx.mp3)
+[2025.11.28-06.02.43:680][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:688][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact4_sfx.mp3]
+[2025.11.28-06.02.43:688][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact4_sfx.mp3)
+[2025.11.28-06.02.43:697][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:705][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact3_sfx.mp3]
+[2025.11.28-06.02.43:705][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact3_sfx.mp3)
+[2025.11.28-06.02.43:711][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:719][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact2_sfx.mp3]
+[2025.11.28-06.02.43:719][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact2_sfx.mp3)
+[2025.11.28-06.02.43:727][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:736][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact1_sfx.mp3]
+[2025.11.28-06.02.43:736][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact1_sfx.mp3)
+[2025.11.28-06.02.43:742][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:749][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact10_sfx.mp3]
+[2025.11.28-06.02.43:749][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact10_sfx.mp3)
+[2025.11.28-06.02.43:756][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:763][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep4_sfx.mp3]
+[2025.11.28-06.02.43:764][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep4_sfx.mp3)
+[2025.11.28-06.02.43:769][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:775][200]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep3_sfx.mp3]
+[2025.11.28-06.02.43:775][200]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep3_sfx.mp3)
+[2025.11.28-06.02.43:781][200]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.43:973][201]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep2_sfx.mp3]
+[2025.11.28-06.02.43:973][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep2_sfx.mp3)
+[2025.11.28-06.02.43:996][201]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:018][201]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep1_sfx.mp3]
+[2025.11.28-06.02.44:019][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep1_sfx.mp3)
+[2025.11.28-06.02.44:024][201]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:029][201]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-reload_sfx.mp3]
+[2025.11.28-06.02.44:029][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-reload_sfx.mp3)
+[2025.11.28-06.02.44:057][201]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:085][201]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-fire_sfx.mp3]
+[2025.11.28-06.02.44:085][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-fire_sfx.mp3)
+[2025.11.28-06.02.44:093][201]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:101][201]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-explosion_sfx.mp3]
+[2025.11.28-06.02.44:101][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-explosion_sfx.mp3)
+[2025.11.28-06.02.44:112][201]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:121][201]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep4_sfx.mp3]
+[2025.11.28-06.02.44:122][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep4_sfx.mp3)
+[2025.11.28-06.02.44:127][201]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:133][201]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep3_sfx.mp3]
+[2025.11.28-06.02.44:133][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep3_sfx.mp3)
+[2025.11.28-06.02.44:139][201]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:307][202]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep2_sfx.mp3]
+[2025.11.28-06.02.44:307][202]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep2_sfx.mp3)
+[2025.11.28-06.02.44:312][202]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:319][202]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep1_sfx.mp3]
+[2025.11.28-06.02.44:319][202]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep1_sfx.mp3)
+[2025.11.28-06.02.44:323][202]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:329][202]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep4_sfx.mp3]
+[2025.11.28-06.02.44:329][202]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep4_sfx.mp3)
+[2025.11.28-06.02.44:334][202]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:339][202]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep3_sfx.mp3]
+[2025.11.28-06.02.44:340][202]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep3_sfx.mp3)
+[2025.11.28-06.02.44:346][202]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:353][202]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep2_sfx.mp3]
+[2025.11.28-06.02.44:353][202]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep2_sfx.mp3)
+[2025.11.28-06.02.44:358][202]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:365][202]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep1_sfx.mp3]
+[2025.11.28-06.02.44:365][202]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep1_sfx.mp3)
+[2025.11.28-06.02.44:371][202]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:378][202]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/Metal_stress_sound.mp3]
+[2025.11.28-06.02.44:378][202]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/Metal_stress_sound.mp3)
+[2025.11.28-06.02.44:436][202]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:642][203]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/parry_sfx.mp3]
+[2025.11.28-06.02.44:642][203]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/parry_sfx.mp3)
+[2025.11.28-06.02.44:660][203]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:677][203]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-bullet-load_sfx.mp3]
+[2025.11.28-06.02.44:677][203]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-bullet-load_sfx.mp3)
+[2025.11.28-06.02.44:680][203]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:683][203]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-cylinder-close_sfx.mp3]
+[2025.11.28-06.02.44:683][203]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-cylinder-close_sfx.mp3)
+[2025.11.28-06.02.44:690][203]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:698][203]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-cylinder-open_sfx.mp3]
+[2025.11.28-06.02.44:698][203]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-cylinder-open_sfx.mp3)
+[2025.11.28-06.02.44:703][203]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:708][203]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-fire_sfx.mp3]
+[2025.11.28-06.02.44:708][203]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-fire_sfx.mp3)
+[2025.11.28-06.02.44:721][203]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:733][203]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/sword-impact_sfx.mp3]
+[2025.11.28-06.02.44:733][203]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/sword-impact_sfx.mp3)
+[2025.11.28-06.02.44:744][203]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:756][203]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/sword-slash1_sfx.mp3]
+[2025.11.28-06.02.44:756][203]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/sword-slash1_sfx.mp3)
+[2025.11.28-06.02.44:780][203]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:804][203]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep1_sfx.mp3]
+[2025.11.28-06.02.44:804][203]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep1_sfx.mp3)
+[2025.11.28-06.02.44:807][203]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:974][204]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep2_sfx.mp3]
+[2025.11.28-06.02.44:974][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep2_sfx.mp3)
+[2025.11.28-06.02.44:977][204]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.44:981][204]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep3_sfx.mp3]
+[2025.11.28-06.02.44:981][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep3_sfx.mp3)
+[2025.11.28-06.02.45:032][204]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.45:082][204]LogAudioEditor: Performing atomic reimport of [C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep4_sfx.mp3]
+[2025.11.28-06.02.45:082][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep4_sfx.mp3)
+[2025.11.28-06.02.45:086][204]LogAudioEditor: -- imported successfully
+[2025.11.28-06.02.45:107][204]LogInterchangeEngine: [Pending] Importing
+[2025.11.28-06.02.45:108][204]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.28-06.02.45:108][204]LogInterchangeEngine: [Success] Import Done
+[2025.11.28-06.02.45:123][204]LogInterchangeEngine: [Pending] Importing
+[2025.11.28-06.02.45:125][204]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.28-06.02.45:125][204]LogInterchangeEngine: [Success] Import Done
+[2025.11.28-06.02.45:140][204]LogInterchangeEngine: [Pending] Importing
+[2025.11.28-06.02.45:142][204]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.28-06.02.45:142][204]LogInterchangeEngine: [Success] Import Done
+[2025.11.28-06.02.45:310][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.28-06.02.45:511][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-impact8_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:515][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-impact8_sfx.metal-impact8_sfx]
+[2025.11.28-06.02.45:515][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-impact8_sfx]
+[2025.11.28-06.02.45:549][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-impact8_sfx
+[2025.11.28-06.02.45:549][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-impact8_sfxC4BEC99D4B6B2F380D43CCB14B55F9AC.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact8_sfx.uasset'
+[2025.11.28-06.02.45:550][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-impact7_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:552][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-impact7_sfx.metal-impact7_sfx]
+[2025.11.28-06.02.45:552][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-impact7_sfx]
+[2025.11.28-06.02.45:561][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-impact7_sfx
+[2025.11.28-06.02.45:561][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-impact7_sfx41BAD415442172888C22B59BDC3DF8E6.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact7_sfx.uasset'
+[2025.11.28-06.02.45:562][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-impact4_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:564][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-impact4_sfx.metal-impact4_sfx]
+[2025.11.28-06.02.45:564][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-impact4_sfx]
+[2025.11.28-06.02.45:572][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-impact4_sfx
+[2025.11.28-06.02.45:573][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-impact4_sfx0800E5784C6C63994E927BB8DBEAEC46.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact4_sfx.uasset'
+[2025.11.28-06.02.45:573][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-impact3_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:575][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-impact3_sfx.metal-impact3_sfx]
+[2025.11.28-06.02.45:575][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-impact3_sfx]
+[2025.11.28-06.02.45:584][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-impact3_sfx
+[2025.11.28-06.02.45:584][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-impact3_sfx8BFA1BDC44E879EA3376DA94190ACF89.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact3_sfx.uasset'
+[2025.11.28-06.02.45:585][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-impact2_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:587][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-impact2_sfx.metal-impact2_sfx]
+[2025.11.28-06.02.45:587][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-impact2_sfx]
+[2025.11.28-06.02.45:595][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-impact2_sfx
+[2025.11.28-06.02.45:595][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-impact2_sfx9953FBF341DE98DBBF9E6A8DD3FD4357.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact2_sfx.uasset'
+[2025.11.28-06.02.45:596][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-impact1_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:598][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-impact1_sfx.metal-impact1_sfx]
+[2025.11.28-06.02.45:598][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-impact1_sfx]
+[2025.11.28-06.02.45:607][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-impact1_sfx
+[2025.11.28-06.02.45:607][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-impact1_sfx1ADE64224CAA218F21A1B19434840C21.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact1_sfx.uasset'
+[2025.11.28-06.02.45:608][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-impact10_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:610][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-impact10_sfx.metal-impact10_sfx]
+[2025.11.28-06.02.45:610][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-impact10_sfx]
+[2025.11.28-06.02.45:617][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-impact10_sfx
+[2025.11.28-06.02.45:618][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-impact10_sfx21162AA24DC97D35FB4BF9B67D3E7DE6.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact10_sfx.uasset'
+[2025.11.28-06.02.45:619][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-footstep4_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:621][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-footstep4_sfx.metal-footstep4_sfx]
+[2025.11.28-06.02.45:621][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-footstep4_sfx]
+[2025.11.28-06.02.45:628][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-footstep4_sfx
+[2025.11.28-06.02.45:629][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-footstep4_sfxBB9F675F4979FCCB1B85989BBDA109B7.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep4_sfx.uasset'
+[2025.11.28-06.02.45:630][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-footstep3_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:632][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-footstep3_sfx.metal-footstep3_sfx]
+[2025.11.28-06.02.45:632][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-footstep3_sfx]
+[2025.11.28-06.02.45:640][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-footstep3_sfx
+[2025.11.28-06.02.45:640][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-footstep3_sfxA4D2A60F4FDBB9548F5134879B9002EF.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep3_sfx.uasset'
+[2025.11.28-06.02.45:641][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-footstep2_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:643][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-footstep2_sfx.metal-footstep2_sfx]
+[2025.11.28-06.02.45:643][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-footstep2_sfx]
+[2025.11.28-06.02.45:652][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-footstep2_sfx
+[2025.11.28-06.02.45:652][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-footstep2_sfx30033FEA4DBFFE113038D988CF6C9EC3.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep2_sfx.uasset'
+[2025.11.28-06.02.45:654][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/metal-footstep1_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:656][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/metal-footstep1_sfx.metal-footstep1_sfx]
+[2025.11.28-06.02.45:656][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/metal-footstep1_sfx]
+[2025.11.28-06.02.45:663][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/metal-footstep1_sfx
+[2025.11.28-06.02.45:663][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/metal-footstep1_sfx94B3BB8646B2787F7D7C9ABE7032E4FB.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep1_sfx.uasset'
+[2025.11.28-06.02.45:664][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/grenade-launcher-reload_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:666][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/grenade-launcher-reload_sfx.grenade-launcher-reload_sfx]
+[2025.11.28-06.02.45:666][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/grenade-launcher-reload_sfx]
+[2025.11.28-06.02.45:677][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/grenade-launcher-reload_sfx
+[2025.11.28-06.02.45:678][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/grenade-launcher-reload_sfxBAA7992B4B0F584989D1A28E1842DD4B.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-reload_sfx.uasset'
+[2025.11.28-06.02.45:679][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/grenade-launcher-fire_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:681][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/grenade-launcher-fire_sfx.grenade-launcher-fire_sfx]
+[2025.11.28-06.02.45:681][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/grenade-launcher-fire_sfx]
+[2025.11.28-06.02.45:689][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/grenade-launcher-fire_sfx
+[2025.11.28-06.02.45:689][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/grenade-launcher-fire_sfx32CA7CC34F3E8E10707B22ABFE1F59B5.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-fire_sfx.uasset'
+[2025.11.28-06.02.45:690][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/grenade-launcher-explosion_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:692][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/grenade-launcher-explosion_sfx.grenade-launcher-explosion_sfx]
+[2025.11.28-06.02.45:692][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/grenade-launcher-explosion_sfx]
+[2025.11.28-06.02.45:702][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/grenade-launcher-explosion_sfx
+[2025.11.28-06.02.45:702][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/grenade-launcher-explosion_sfx29172C6B42B19A1CE65615B8BC07093F.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-explosion_sfx.uasset'
+[2025.11.28-06.02.45:703][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/grass-footstep4_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:705][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/grass-footstep4_sfx.grass-footstep4_sfx]
+[2025.11.28-06.02.45:705][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/grass-footstep4_sfx]
+[2025.11.28-06.02.45:715][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/grass-footstep4_sfx
+[2025.11.28-06.02.45:715][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/grass-footstep4_sfx7A6C6AE24B236BDEE54C59B89E4E7B68.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep4_sfx.uasset'
+[2025.11.28-06.02.45:716][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/grass-footstep3_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:718][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/grass-footstep3_sfx.grass-footstep3_sfx]
+[2025.11.28-06.02.45:718][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/grass-footstep3_sfx]
+[2025.11.28-06.02.45:727][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/grass-footstep3_sfx
+[2025.11.28-06.02.45:727][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/grass-footstep3_sfx378FDFBD48CFCFB748B9E99023E5F023.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep3_sfx.uasset'
+[2025.11.28-06.02.45:728][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/grass-footstep2_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:730][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/grass-footstep2_sfx.grass-footstep2_sfx]
+[2025.11.28-06.02.45:730][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/grass-footstep2_sfx]
+[2025.11.28-06.02.45:739][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/grass-footstep2_sfx
+[2025.11.28-06.02.45:740][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/grass-footstep2_sfx5C58CF0F42B310D1CB9115A09D53432A.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep2_sfx.uasset'
+[2025.11.28-06.02.45:741][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/grass-footstep1_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:742][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/grass-footstep1_sfx.grass-footstep1_sfx]
+[2025.11.28-06.02.45:742][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/grass-footstep1_sfx]
+[2025.11.28-06.02.45:750][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/grass-footstep1_sfx
+[2025.11.28-06.02.45:751][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/grass-footstep1_sfxC4F380CE443D2C3F3D6E41840A589851.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep1_sfx.uasset'
+[2025.11.28-06.02.45:752][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/concrete-footstep4_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:754][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/concrete-footstep4_sfx.concrete-footstep4_sfx]
+[2025.11.28-06.02.45:754][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/concrete-footstep4_sfx]
+[2025.11.28-06.02.45:762][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/concrete-footstep4_sfx
+[2025.11.28-06.02.45:762][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/concrete-footstep4_sfxFACA2D9E49A880DC8A6C229357AA2A62.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep4_sfx.uasset'
+[2025.11.28-06.02.45:763][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/concrete-footstep3_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:765][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/concrete-footstep3_sfx.concrete-footstep3_sfx]
+[2025.11.28-06.02.45:765][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/concrete-footstep3_sfx]
+[2025.11.28-06.02.45:773][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/concrete-footstep3_sfx
+[2025.11.28-06.02.45:773][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/concrete-footstep3_sfx0467ED8540504A55B6E1FDB50D3AB953.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep3_sfx.uasset'
+[2025.11.28-06.02.45:775][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/concrete-footstep2_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:778][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/concrete-footstep2_sfx.concrete-footstep2_sfx]
+[2025.11.28-06.02.45:778][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/concrete-footstep2_sfx]
+[2025.11.28-06.02.45:785][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/concrete-footstep2_sfx
+[2025.11.28-06.02.45:785][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/concrete-footstep2_sfx0FB79652447E95F54A58AB9C249802E3.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep2_sfx.uasset'
+[2025.11.28-06.02.45:786][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/concrete-footstep1_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:788][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/concrete-footstep1_sfx.concrete-footstep1_sfx]
+[2025.11.28-06.02.45:788][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/concrete-footstep1_sfx]
+[2025.11.28-06.02.45:797][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/concrete-footstep1_sfx
+[2025.11.28-06.02.45:797][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/concrete-footstep1_sfxAE8A863F4887610AA89FBBA16A7BD24F.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep1_sfx.uasset'
+[2025.11.28-06.02.45:798][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/Metal_stress_sound] ([1] browsable assets)...
+[2025.11.28-06.02.45:801][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/Metal_stress_sound.Metal_stress_sound]
+[2025.11.28-06.02.45:801][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/Metal_stress_sound]
+[2025.11.28-06.02.45:811][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Metal_stress_sound
+[2025.11.28-06.02.45:812][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/Metal_stress_sound50A9EB5049F43D2A22C5C68FCA7021A8.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/Metal_stress_sound.uasset'
+[2025.11.28-06.02.45:813][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/parry_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:816][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/parry_sfx.parry_sfx]
+[2025.11.28-06.02.45:816][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/parry_sfx]
+[2025.11.28-06.02.45:824][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/parry_sfx
+[2025.11.28-06.02.45:824][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/parry_sfx4146E74641616C319568B8BFB22DE2F7.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/parry_sfx.uasset'
+[2025.11.28-06.02.45:826][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/revolver-bullet-load_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:828][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/revolver-bullet-load_sfx.revolver-bullet-load_sfx]
+[2025.11.28-06.02.45:828][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/revolver-bullet-load_sfx]
+[2025.11.28-06.02.45:835][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/revolver-bullet-load_sfx
+[2025.11.28-06.02.45:836][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/revolver-bullet-load_sfx31AC83C44B7BD364FBB00AA8CD9DF350.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-bullet-load_sfx.uasset'
+[2025.11.28-06.02.45:837][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/revolver-cylinder-close_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:838][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/revolver-cylinder-close_sfx.revolver-cylinder-close_sfx]
+[2025.11.28-06.02.45:838][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/revolver-cylinder-close_sfx]
+[2025.11.28-06.02.45:847][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/revolver-cylinder-close_sfx
+[2025.11.28-06.02.45:847][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/revolver-cylinder-close_sfxAF9E05434118E43BE6F174A8CDB7A399.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-cylinder-close_sfx.uasset'
+[2025.11.28-06.02.45:848][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/revolver-cylinder-open_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:850][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/revolver-cylinder-open_sfx.revolver-cylinder-open_sfx]
+[2025.11.28-06.02.45:850][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/revolver-cylinder-open_sfx]
+[2025.11.28-06.02.45:857][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/revolver-cylinder-open_sfx
+[2025.11.28-06.02.45:858][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/revolver-cylinder-open_sfx2094894E4FEBE194BA03E2B43BC33C70.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-cylinder-open_sfx.uasset'
+[2025.11.28-06.02.45:859][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/revolver-fire_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:861][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/revolver-fire_sfx.revolver-fire_sfx]
+[2025.11.28-06.02.45:861][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/revolver-fire_sfx]
+[2025.11.28-06.02.45:870][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/revolver-fire_sfx
+[2025.11.28-06.02.45:871][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/revolver-fire_sfx057D7DD74EFDA0D76E5C148EEC6C950E.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-fire_sfx.uasset'
+[2025.11.28-06.02.45:872][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/sword-impact_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:873][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/sword-impact_sfx.sword-impact_sfx]
+[2025.11.28-06.02.45:873][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/sword-impact_sfx]
+[2025.11.28-06.02.45:881][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/sword-impact_sfx
+[2025.11.28-06.02.45:883][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/sword-impact_sfx5CF7F43E4EDB16DF7CECEE83A5C38E7B.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/sword-impact_sfx.uasset'
+[2025.11.28-06.02.45:884][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/sword-slash1_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:886][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/sword-slash1_sfx.sword-slash1_sfx]
+[2025.11.28-06.02.45:886][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/sword-slash1_sfx]
+[2025.11.28-06.02.45:896][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/sword-slash1_sfx
+[2025.11.28-06.02.45:897][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/sword-slash1_sfx5290DF494F4FB5DFC91CFF9AD80B52E3.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/sword-slash1_sfx.uasset'
+[2025.11.28-06.02.45:897][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/wood-footstep1_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:899][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/wood-footstep1_sfx.wood-footstep1_sfx]
+[2025.11.28-06.02.45:899][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/wood-footstep1_sfx]
+[2025.11.28-06.02.45:907][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/wood-footstep1_sfx
+[2025.11.28-06.02.45:908][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/wood-footstep1_sfx4FA682AE46F9AB7F4F30369F4FE734DF.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep1_sfx.uasset'
+[2025.11.28-06.02.45:910][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/wood-footstep2_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:915][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/wood-footstep2_sfx.wood-footstep2_sfx]
+[2025.11.28-06.02.45:915][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/wood-footstep2_sfx]
+[2025.11.28-06.02.45:923][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/wood-footstep2_sfx
+[2025.11.28-06.02.45:924][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/wood-footstep2_sfxF56CAF4D44BD7BDFDDAE07AF39E42D9F.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep2_sfx.uasset'
+[2025.11.28-06.02.45:925][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/wood-footstep3_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:928][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/wood-footstep3_sfx.wood-footstep3_sfx]
+[2025.11.28-06.02.45:928][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/wood-footstep3_sfx]
+[2025.11.28-06.02.45:941][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/wood-footstep3_sfx
+[2025.11.28-06.02.45:941][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/wood-footstep3_sfx8C8DBEA148B13BADAE299FA84DC7C300.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep3_sfx.uasset'
+[2025.11.28-06.02.45:942][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/wood-footstep4_sfx] ([1] browsable assets)...
+[2025.11.28-06.02.45:943][205]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/wood-footstep4_sfx.wood-footstep4_sfx]
+[2025.11.28-06.02.45:943][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/wood-footstep4_sfx]
+[2025.11.28-06.02.45:951][205]LogSavePackage: Moving output files for package: /Game/Audio/SFX/wood-footstep4_sfx
+[2025.11.28-06.02.45:951][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/wood-footstep4_sfx99FEDE144924B38C4FA4158E5AF70880.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep4_sfx.uasset'
+[2025.11.28-06.02.45:952][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Particles/pixil-frame-0] ([1] browsable assets)...
+[2025.11.28-06.02.45:956][205]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Material/Particles/pixil-frame-0.pixil-frame-0]
+[2025.11.28-06.02.45:956][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Particles/pixil-frame-0]
+[2025.11.28-06.02.45:963][205]LogSavePackage: Moving output files for package: /Game/Material/Particles/pixil-frame-0
+[2025.11.28-06.02.45:963][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/pixil-frame-06356835A4B6AA38B061331AE87F1AB3F.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-0.uasset'
+[2025.11.28-06.02.45:964][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Particles/pixil-frame-1] ([1] browsable assets)...
+[2025.11.28-06.02.45:966][205]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Material/Particles/pixil-frame-1.pixil-frame-1]
+[2025.11.28-06.02.45:966][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Particles/pixil-frame-1]
+[2025.11.28-06.02.45:973][205]LogSavePackage: Moving output files for package: /Game/Material/Particles/pixil-frame-1
+[2025.11.28-06.02.45:974][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/pixil-frame-16A2F8C624ED6B723423613B54D83CD7D.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-1.uasset'
+[2025.11.28-06.02.45:975][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Particles/pixil-frame-2] ([1] browsable assets)...
+[2025.11.28-06.02.45:976][205]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Material/Particles/pixil-frame-2.pixil-frame-2]
+[2025.11.28-06.02.45:976][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Particles/pixil-frame-2]
+[2025.11.28-06.02.45:985][205]LogSavePackage: Moving output files for package: /Game/Material/Particles/pixil-frame-2
+[2025.11.28-06.02.45:985][205]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/pixil-frame-28CF63AD14ADF998D4D6225A150795DF3.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-2.uasset'
+[2025.11.28-06.02.45:997][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 687.299 ms
+[2025.11.28-06.02.46:031][205]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.28-06.02.46:091][206]LogContentValidation: Display: Starting to validate 37 assets
+[2025.11.28-06.02.46:091][206]LogContentValidation: Enabled validators:
+[2025.11.28-06.02.46:091][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.28-06.02.46:092][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.28-06.02.46:092][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.28-06.02.46:092][206]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.28-06.02.46:092][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.28-06.02.46:092][206]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-impact8_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-impact7_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-impact4_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-impact3_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-impact2_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-impact1_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-impact10_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-footstep4_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-footstep3_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-footstep2_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/metal-footstep1_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/grenade-launcher-reload_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/grenade-launcher-fire_sfx Validating asset
+[2025.11.28-06.02.46:092][206]AssetCheck: /Game/Audio/SFX/grenade-launcher-explosion_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/grass-footstep4_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/grass-footstep3_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/grass-footstep2_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/grass-footstep1_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/concrete-footstep4_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/concrete-footstep3_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/concrete-footstep2_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/concrete-footstep1_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/Metal_stress_sound Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/parry_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/revolver-bullet-load_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/revolver-cylinder-close_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/revolver-cylinder-open_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/revolver-fire_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/sword-impact_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/sword-slash1_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/wood-footstep1_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/wood-footstep2_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/wood-footstep3_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Audio/SFX/wood-footstep4_sfx Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Material/Particles/pixil-frame-0 Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Material/Particles/pixil-frame-1 Validating asset
+[2025.11.28-06.02.46:093][206]AssetCheck: /Game/Material/Particles/pixil-frame-2 Validating asset
+[2025.11.28-06.02.49:132][216]AssetReimport: Reimported asset metal-impact8_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact8_sfx.mp3.
+[2025.11.28-06.02.49:132][216]AssetReimport: Reimported asset metal-impact7_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact7_sfx.mp3.
+[2025.11.28-06.02.49:132][216]AssetReimport: Reimported asset metal-impact4_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact4_sfx.mp3.
+[2025.11.28-06.02.49:132][216]AssetReimport: Reimported asset metal-impact3_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact3_sfx.mp3.
+[2025.11.28-06.02.49:132][216]AssetReimport: Reimported asset metal-impact2_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact2_sfx.mp3.
+[2025.11.28-06.02.49:132][216]AssetReimport: Reimported asset metal-impact1_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact1_sfx.mp3.
+[2025.11.28-06.02.49:132][216]AssetReimport: Reimported asset metal-impact10_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-impact10_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset metal-footstep4_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep4_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset metal-footstep3_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep3_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset metal-footstep2_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep2_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset metal-footstep1_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/metal-footstep1_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset grenade-launcher-reload_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-reload_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset grenade-launcher-fire_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-fire_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset grenade-launcher-explosion_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grenade-launcher-explosion_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset grass-footstep4_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep4_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset grass-footstep3_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep3_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset grass-footstep2_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep2_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset grass-footstep1_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/grass-footstep1_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset concrete-footstep4_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep4_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset concrete-footstep3_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep3_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset concrete-footstep2_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep2_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset concrete-footstep1_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/concrete-footstep1_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset Metal_stress_sound from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/Metal_stress_sound.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset parry_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/parry_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset revolver-bullet-load_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-bullet-load_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset revolver-cylinder-close_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-cylinder-close_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset revolver-cylinder-open_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-cylinder-open_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset revolver-fire_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/revolver-fire_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset sword-impact_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/sword-impact_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset sword-slash1_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/sword-slash1_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset wood-footstep1_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep1_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset wood-footstep2_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep2_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset wood-footstep3_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep3_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset wood-footstep4_sfx from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Audio/SFX/wood-footstep4_sfx.mp3.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset pixil-frame-0 from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-0.png.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset pixil-frame-1 from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-1.png.
+[2025.11.28-06.02.49:133][216]AssetReimport: Reimported asset pixil-frame-2 from C:/Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-2.png.
+[2025.11.28-06.02.50:831][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.28-06.02.56:565][221]LogSlate: Window 'Save Content' being destroyed
+[2025.11.28-06.02.56:575][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.28-06.02.56:626][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Particles/pixil-frame-10] ([1] browsable assets)...
+[2025.11.28-06.02.56:630][221]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Material/Particles/pixil-frame-10.pixil-frame-10]
+[2025.11.28-06.02.56:630][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Particles/pixil-frame-10]
+[2025.11.28-06.02.56:640][221]LogSavePackage: Moving output files for package: /Game/Material/Particles/pixil-frame-10
+[2025.11.28-06.02.56:640][221]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/pixil-frame-1095238576437CECCA963E4C82990AF087.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-10.uasset'
+[2025.11.28-06.02.56:641][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Particles/pixil-frame-11] ([1] browsable assets)...
+[2025.11.28-06.02.56:642][221]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Material/Particles/pixil-frame-11.pixil-frame-11]
+[2025.11.28-06.02.56:642][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Particles/pixil-frame-11]
+[2025.11.28-06.02.56:650][221]LogSavePackage: Moving output files for package: /Game/Material/Particles/pixil-frame-11
+[2025.11.28-06.02.56:650][221]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/pixil-frame-119557A196434F0B82A0A8D4BDC28AAD72.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-11.uasset'
+[2025.11.28-06.02.56:651][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Particles/pixil-frame-5] ([1] browsable assets)...
+[2025.11.28-06.02.56:657][221]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Material/Particles/pixil-frame-5.pixil-frame-5]
+[2025.11.28-06.02.56:657][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Particles/pixil-frame-5]
+[2025.11.28-06.02.56:665][221]LogSavePackage: Moving output files for package: /Game/Material/Particles/pixil-frame-5
+[2025.11.28-06.02.56:665][221]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/pixil-frame-593DFFDC94CC55EC55893389C594E3769.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-5.uasset'
+[2025.11.28-06.02.56:666][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Particles/pixil-frame-6] ([1] browsable assets)...
+[2025.11.28-06.02.56:672][221]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Material/Particles/pixil-frame-6.pixil-frame-6]
+[2025.11.28-06.02.56:672][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Particles/pixil-frame-6]
+[2025.11.28-06.02.56:679][221]LogSavePackage: Moving output files for package: /Game/Material/Particles/pixil-frame-6
+[2025.11.28-06.02.56:680][221]LogSavePackage: Moving '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/pixil-frame-6F29C352841D751C7BE29C6B8DB328F67.tmp' to '../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Content/Material/Particles/pixil-frame-6.uasset'
+[2025.11.28-06.02.56:695][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.258 ms (total: 807.558 ms)
+[2025.11.28-06.02.56:779][221]LogStall: Shutdown...
+[2025.11.28-06.02.56:779][221]LogStall: Shutdown complete.
+[2025.11.28-06.02.56:852][221]LogSlate: Window 'project - Unreal Editor' being destroyed
+[2025.11.28-06.02.56:853][221]LogWindowsTextInputMethodSystem: Activated input method: Finnish (Finland) - (Keyboard).
+[2025.11.28-06.02.56:905][221]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.28-06.02.56:905][221]LogContentValidation: Enabled validators:
+[2025.11.28-06.02.56:905][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.28-06.02.56:905][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.28-06.02.56:905][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.28-06.02.56:905][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.28-06.02.56:905][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.28-06.02.56:905][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.28-06.02.56:905][221]AssetCheck: /Game/Material/Particles/pixil-frame-10 Validating asset
+[2025.11.28-06.02.56:905][221]AssetCheck: /Game/Material/Particles/pixil-frame-11 Validating asset
+[2025.11.28-06.02.56:905][221]AssetCheck: /Game/Material/Particles/pixil-frame-5 Validating asset
+[2025.11.28-06.02.56:905][221]AssetCheck: /Game/Material/Particles/pixil-frame-6 Validating asset
+[2025.11.28-06.02.56:908][221]Cmd: QUIT_EDITOR
+[2025.11.28-06.02.56:908][221]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.28-06.02.56:913][221]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/s4tuel01/OneDrive - OSAO/Documents/GitHub/Stupid-inc-unreal-project/project/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.28-06.02.56:930][222]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.28-06.02.56:930][222]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.28-06.02.56:930][222]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.28-06.02.56:939][222]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.28-06.02.56:939][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.28-06.02.56:939][222]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.11.28-06.02.56:957][222]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.28-06.02.56:957][222]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.28-06.02.56:958][222]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.28-06.02.56:959][222]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.28-06.02.56:959][222]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.28-06.02.56:961][222]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.28-06.02.56:962][222]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.28-06.02.56:962][222]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.28-06.02.56:962][222]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2025.11.28-06.02.56:962][222]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.28-06.02.56:962][222]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.28-06.02.56:965][222]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.28-06.02.56:969][222]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.28-06.02.56:969][222]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.28-06.02.56:972][222]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.28-06.02.56:972][222]LogExit: Preparing to exit.
+[2025.11.28-06.02.57:020][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.28-06.02.57:365][222]LogEditorDataStorage: Deinitializing
+[2025.11.28-06.02.57:437][222]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.28-06.02.57:452][222]LogExit: Editor shut down
+[2025.11.28-06.02.57:454][222]LogExit: Transaction tracking system shut down
+[2025.11.28-06.02.57:543][222]LogExit: Object subsystem successfully closed.
+[2025.11.28-06.02.57:580][222]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.28-06.02.57:638][222]LogMemoryProfiler: Shutdown
+[2025.11.28-06.02.57:638][222]LogNetworkingProfiler: Shutdown
+[2025.11.28-06.02.57:638][222]LoadingProfiler: Shutdown
+[2025.11.28-06.02.57:639][222]LogTimingProfiler: Shutdown
+[2025.11.28-06.02.57:640][222]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.28-06.02.57:640][222]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.28-06.02.57:945][222]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.28-06.02.57:981][222]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.28-06.02.57:981][222]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFA7FFC6E-4100-50CD-ADAF-3BAD80FD3461%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=11cf920e474d6ed95c5733ab8b166ecc%7C3ce66989b2db4a958798a9c9ad1fa46c%7C5837cec0-a6a8-4185-9ea3-50411798cba9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.28-06.02.58:536][222]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.28-06.02.58:536][222]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.28-06.02.58:536][222]RenderDocPlugin: plugin has been unloaded.
+[2025.11.28-06.02.58:537][222]LogXGEController: Cleaning working directory: C:/Users/s4tuel01/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.11.28-06.02.58:538][222]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.28-06.02.58:538][222]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.28-06.02.58:538][222]LogPakFile: Destroying PakPlatformFile
+[2025.11.28-06.02.58:924][222]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.28-06.02.58:949][222]LogExit: Exiting.
+[2025.11.28-06.02.58:969][222]Log file closed, 11/28/25 08:02:58
