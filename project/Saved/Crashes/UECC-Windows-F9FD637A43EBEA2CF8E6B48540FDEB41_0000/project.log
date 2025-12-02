@@ -1377,13 +1377,3 @@ Viewport=0x000001FF9A0FF640, Num=3, Size=(1936,1168), PF=18, DXGIFormat=0x18, Fu
 [2025.11.25-11.32.57:275][519]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
 [2025.11.25-11.32.57:275][519]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
 [2025.11.25-11.32.57:275][519]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
-[2025.11.25-11.32.58:626][519]LogRHI: Error: Breadcrumbs 'RHIThread'
- - Frame 1518
-
-[2025.11.25-11.32.58:626][519]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1040ms], ThreadID=9824
-[2025.11.25-11.32.58:626][519]LogWindows: FPlatformMisc::RequestExit(0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2025.11.25-11.32.58:626][519]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2025.11.25-11.32.58:626][519]LogCore: Engine exit requested (reason: Win RequestExit)
-[2025.11.25-11.32.58:628][519]LogWindows: FPlatformMisc::RequestExit(1, D3D12Util.TerminateOnGPUCrash)
-[2025.11.25-11.32.58:628][519]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, D3D12Util.TerminateOnGPUCrash)
-[2025.11.25-11.32.58:628][519]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
