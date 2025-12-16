@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/unreal-backup/Stupid-inc-ROTF/project/Content/Material/Particles/pixil-frame-3.uasset",
+				"C:/unreal-backup/Stupid-inc-ROTF/project/Content/Blueprints/particles/smoke-gun.uasset",
+				"C:/unreal-backup/Stupid-inc-ROTF/project/Content/Material/Particles/smoke.uasset",
 				"C:/s4jala-files/new/Stupid-inc-unreal-project/project/Content/Blueprints/BF_FPS_Character.uasset",
 				"C:/s4jala-files/new/Stupid-inc-unreal-project/project/Content/Blueprints/E_MovementState.uasset",
 				"C:/s4jala-files/new/Stupid-inc-unreal-project/project/Content/Input/IMC_Default.uasset",
