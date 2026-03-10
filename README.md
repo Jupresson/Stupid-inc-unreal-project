@@ -14,6 +14,6 @@ This project is in the **Archived stage**, meaning it's not being worked on and 
 
 ## 🚀 How to Run
 
-1. Get latest releases on https://github.com/Lasse-Jaara/Stupid-inc-unreal-project/releases/tag/PlayableDemo
+1. Get latest releases on https://github.com/Jupresson/Stupid-inc-unreal-project/releases/tag/PlayableDemo
 2. Extract the build.zip file
 3. Run project.exe on Windous pc
